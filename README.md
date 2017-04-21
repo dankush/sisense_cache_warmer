@@ -13,5 +13,6 @@ Steps:
 2. Unzip the file.
 3. Open cache warmer configuration file ("cache_warmer_config.ini") 
 4. Update your dashboard id and credentials as required.
+![cache warmer config](https://cloud.githubusercontent.com/assets/7319365/25283537/c84f0d46-26bc-11e7-879b-308ab9078d07.png)
 5. Set up the trigger as if fit to your flow. 
 
